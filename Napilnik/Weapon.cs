@@ -1,14 +1,7 @@
 ﻿using System;
 
-namespace _01_Encapsulation_Weapon
+namespace Napilnik
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-        }
-    }
-
     class Weapon
     {
         private readonly int _damage;

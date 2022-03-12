@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\GitHub\\Napilnik\\01_Encapsulation_Weapon\\01_Encapsulation_Weapon.csproj": {}
+    "D:\\projects\\GitHub\\Napilnik\\Napilnik\\Napilnik.csproj": {}
   },
   "projects": {
-    "D:\\projects\\GitHub\\Napilnik\\01_Encapsulation_Weapon\\01_Encapsulation_Weapon.csproj": {
+    "D:\\projects\\GitHub\\Napilnik\\Napilnik\\Napilnik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\GitHub\\Napilnik\\01_Encapsulation_Weapon\\01_Encapsulation_Weapon.csproj",
-        "projectName": "01_Encapsulation_Weapon",
-        "projectPath": "D:\\projects\\GitHub\\Napilnik\\01_Encapsulation_Weapon\\01_Encapsulation_Weapon.csproj",
+        "projectUniqueName": "D:\\projects\\GitHub\\Napilnik\\Napilnik\\Napilnik.csproj",
+        "projectName": "Napilnik",
+        "projectPath": "D:\\projects\\GitHub\\Napilnik\\Napilnik\\Napilnik.csproj",
         "packagesPath": "C:\\Users\\Lexa\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\GitHub\\Napilnik\\01_Encapsulation_Weapon\\obj\\",
+        "outputPath": "D:\\projects\\GitHub\\Napilnik\\Napilnik\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lexa\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("01_Encapsulation_Weapon")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Napilnik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("01_Encapsulation_Weapon")]
-[assembly: System.Reflection.AssemblyTitleAttribute("01_Encapsulation_Weapon")]
+[assembly: System.Reflection.AssemblyProductAttribute("Napilnik")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Napilnik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
