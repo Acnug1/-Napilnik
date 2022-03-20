@@ -2,7 +2,7 @@
 
 namespace Napilnik
 {
-    class Weapon
+    public class Weapon
     {
         private readonly int _damage;
         private int _bullets;
@@ -24,7 +24,7 @@ namespace Napilnik
         }
     }
 
-    class Player
+    public class Player
     {
         private int _health;
 
@@ -43,7 +43,7 @@ namespace Napilnik
         }
     }
 
-    class Bot
+    public class Bot
     {
         private readonly Weapon _weapon = new Weapon();
 
