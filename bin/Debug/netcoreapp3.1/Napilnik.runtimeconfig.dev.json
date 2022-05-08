@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lexa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lexa\\.nuget\\packages"
+    ]
+  }
+}
